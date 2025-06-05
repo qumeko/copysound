@@ -1,0 +1,11 @@
+[package]
+name = "CtrlCsound"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+inputbot = "0.6"
+rodio = "0.20.1"
+egui = "0.31.1"
+eframe = "0.31.1"
+once_cell = "1.21.3"
